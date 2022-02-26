@@ -13,3 +13,13 @@ reference
 [https://www.amazon.co.jp/dp/483990894X
 ](https://www.amazon.co.jp/dp/483990894X
 )  
+
+**WebPShop Google Developers**  
+[https://developers.google.com/speed/webp/docs/webpshop](https://developers.google.com/speed/webp/docs/webpshop)  
+
+**webmproject / WebPShop**  
+[https://github.com/webmproject/WebPShop#installation](https://github.com/webmproject/WebPShop#installation)  
+Install  
+C:\Program Files\Common Files\Adobe\Plug-Ins\CS6\WebPShop_0_4_2_Win_x64.8bi  
+File -> Open  
+File -> Save as -> .webP  
